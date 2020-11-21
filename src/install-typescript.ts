@@ -1,3 +1,2 @@
-let message: string = 'Hello Typescript';
-
-console.log({ message });
+let message: string = 'Hello typescript';
+console.log({message});
