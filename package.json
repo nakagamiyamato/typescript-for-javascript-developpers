@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "dev": "ts-node-dev --respawn",
-	 "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "ts-node-dev --respawn",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/nakagamiyamato/typescript-for-javascript-developpers#readme",
   "devDependencies": {
-    "ts-node": "^8.6.2",
+    "ts-node": "^8.5.4",
     "typescript": "^3.7.5"
   },
   "dependencies": {
